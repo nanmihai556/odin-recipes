@@ -1,2 +1,3 @@
 # odin-recipes
- First webpage
+Webpage containing recipes
+My first webpage!
